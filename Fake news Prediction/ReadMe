@@ -1,0 +1,8 @@
+numpy - making data arrays
+pandas - creating dataframes and storing data in dataframs
+re - regular expression // help in searching the text in document
+stopwords - words which dont add much value to our sentence like a , the
+nltk - natural language toolkit
+corpus - body/content of the text
+stemming removes the prefix and the suffix,i.e. converts the word to its root form like actor , acting , actress has root word as act
+tfidvectorizer - converts text into feature vectors
